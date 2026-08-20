@@ -4,10 +4,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/adityashukla21012006-afk/leetc/tree/master/0292-nim-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/adityashukla21012006-afk/leetc/tree/master/2119-a-number-after-a-double-reversal) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/adityashukla21012006-afk/leetc/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Geometry
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/adityashukla21012006-afk/leetc/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/adityashukla21012006-afk/leetc/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/adityashukla21012006-afk/leetc/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/adityashukla21012006-afk/leetc/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/adityashukla21012006-afk/leetc/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/adityashukla21012006-afk/leetc/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

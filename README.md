@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/adityashukla21012006-afk/leetc/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/adityashukla21012006-afk/leetc/tree/master/0292-nim-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/adityashukla21012006-afk/leetc/tree/master/2119-a-number-after-a-double-reversal) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/adityashukla21012006-afk/leetc/tree/master/2481-minimum-cuts-to-divide-a-circle) |

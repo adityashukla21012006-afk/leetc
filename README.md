@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/adityashukla21012006-afk/leetc/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/adityashukla21012006-afk/leetc/tree/master/0342-power-of-four) |
 | [2351-first-letter-to-appear-twice](https://github.com/adityashukla21012006-afk/leetc/tree/master/2351-first-letter-to-appear-twice) |
 ## Recursion
@@ -71,12 +72,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

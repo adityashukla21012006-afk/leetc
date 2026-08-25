@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/adityashukla21012006-afk/leetc/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/adityashukla21012006-afk/leetc/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/adityashukla21012006-afk/leetc/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/adityashukla21012006-afk/leetc/tree/master/0342-power-of-four) |
 | [1903-largest-odd-number-in-string](https://github.com/adityashukla21012006-afk/leetc/tree/master/1903-largest-odd-number-in-string) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/adityashukla21012006-afk/leetc/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/adityashukla21012006-afk/leetc/tree/master/0342-power-of-four) |
 | [2351-first-letter-to-appear-twice](https://github.com/adityashukla21012006-afk/leetc/tree/master/2351-first-letter-to-appear-twice) |
 ## Recursion
@@ -59,9 +61,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0268-missing-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/adityashukla21012006-afk/leetc/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/adityashukla21012006-afk/leetc/tree/master/2351-first-letter-to-appear-twice) |
+## Array
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/adityashukla21012006-afk/leetc/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/adityashukla21012006-afk/leetc/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/adityashukla21012006-afk/leetc/tree/master/2119-a-number-after-a-double-reversal) |
+| [2469-convert-the-temperature](https://github.com/adityashukla21012006-afk/leetc/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/adityashukla21012006-afk/leetc/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Geometry
 |  |

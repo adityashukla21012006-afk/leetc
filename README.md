@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/adityashukla21012006-afk/leetc/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/adityashukla21012006-afk/leetc/tree/master/0342-power-of-four) |
+| [1512-number-of-good-pairs](https://github.com/adityashukla21012006-afk/leetc/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/adityashukla21012006-afk/leetc/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/adityashukla21012006-afk/leetc/tree/master/2119-a-number-after-a-double-reversal) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/adityashukla21012006-afk/leetc/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -63,16 +64,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/adityashukla21012006-afk/leetc/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/adityashukla21012006-afk/leetc/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/adityashukla21012006-afk/leetc/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/adityashukla21012006-afk/leetc/tree/master/2351-first-letter-to-appear-twice) |
 ## Array
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0287-find-the-duplicate-number) |
+| [1512-number-of-good-pairs](https://github.com/adityashukla21012006-afk/leetc/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |

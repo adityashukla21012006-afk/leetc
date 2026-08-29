@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/adityashukla21012006-afk/leetc/tree/master/1903-largest-odd-number-in-string) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/adityashukla21012006-afk/leetc/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2351-first-letter-to-appear-twice](https://github.com/adityashukla21012006-afk/leetc/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
 |  |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/adityashukla21012006-afk/leetc/tree/master/1945-sum-of-digits-of-string-after-convert) |
 <!---LeetCode Topics End-->

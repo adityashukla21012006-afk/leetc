@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adityashukla21012006-afk/leetc/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0287-find-the-duplicate-number) |
+| [0643-maximum-average-subarray-i](https://github.com/adityashukla21012006-afk/leetc/tree/master/0643-maximum-average-subarray-i) |
 | [1512-number-of-good-pairs](https://github.com/adityashukla21012006-afk/leetc/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/adityashukla21012006-afk/leetc/tree/master/1945-sum-of-digits-of-string-after-convert) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/adityashukla21012006-afk/leetc/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

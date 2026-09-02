@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adityashukla21012006-afk/leetc/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adityashukla21012006-afk/leetc/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/adityashukla21012006-afk/leetc/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/adityashukla21012006-afk/leetc/tree/master/0643-maximum-average-subarray-i) |
 | [1512-number-of-good-pairs](https://github.com/adityashukla21012006-afk/leetc/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
@@ -122,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/adityashukla21012006-afk/leetc/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityashukla21012006-afk/leetc/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/adityashukla21012006-afk/leetc/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/adityashukla21012006-afk/leetc/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
